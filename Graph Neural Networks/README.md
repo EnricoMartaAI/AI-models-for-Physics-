@@ -1,1 +1,1 @@
-
+This Python script implements a Graph Neural Network (GNN) using PyTorch to classify MNIST superpixel data. It includes functions for plotting training results, calculating accuracy, and defining the GNN architecture with SAGEConv layers and a multi-layer perceptron (MLP) classifier. The script loads and preprocesses the dataset, trains the model over several epochs, and aims to evaluate the model's performance, with placeholders for testing and plotting results.
